@@ -50,10 +50,5 @@ Upload an image → Get prediction → Probability score.
 ## 🚀 Future Enhancements
 Real-time satellite feeds, global scaling, automated reporting, environmental assessment.
 
-## 👥 Contributors
-Supriya Priyadarshi  
-Amritansh Kumar Verma  
-Nabeel Anwar Siddiqui  
-Sanjana Subudhi
 
 Guide: Mr. Sourav Kumar Giri
